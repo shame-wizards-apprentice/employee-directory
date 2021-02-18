@@ -11,7 +11,7 @@ When the app loads, it will display a list of all employees at the company. Use 
 
 Landing Page:
 
-![Landing page](Screen Shot 2021-02-17 at 6.36.48 PM.png?raw=true "Landing Page")
+![Landing page](public/Screenshot.png?raw=true "Landing Page")
 
 ## Built With
 
